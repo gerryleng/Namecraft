@@ -1,0 +1,4 @@
+tk
+guizero
+pyperclip
+datetime
